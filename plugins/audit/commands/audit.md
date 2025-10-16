@@ -23,3 +23,5 @@ Perform a security audit focusing on:
 Target: $ARGUMENTS (if specified, otherwise audit entire codebase)
 
 Provide prioritized findings with remediation steps.
+## Note
+- 使用中文交流

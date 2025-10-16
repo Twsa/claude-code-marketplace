@@ -26,3 +26,5 @@ This documentation provides two main bash scripts for Git worktree management:
 - Directory management
 - Flexible branch creation options
 - Streamlined Git workflow by making branch and worktree management more efficient
+## Note
+- 使用中文交流

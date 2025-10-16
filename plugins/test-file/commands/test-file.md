@@ -18,3 +18,5 @@ Requirements:
 
 - Existing test files: !`find . -name "*.test.*" -o -name "*.spec.*" | head -10`
 - Package.json testing setup: @package.json
+## Note
+- 使用中文交流

@@ -17,3 +17,5 @@ Proceed with the double check only after you are sure you have done all of the a
 Ultrathink!
 
 $ARGUMENTS
+## Note
+- 使用中文交流

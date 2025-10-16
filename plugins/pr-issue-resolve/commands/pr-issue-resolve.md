@@ -170,3 +170,5 @@ Use the GitHub CLI (`gh`) for all GitHub-related tasks, such as fetching PR deta
 - [ ] Commit messages descriptive  
 - [ ] PR updated with resolution summary  
 - [ ] No new issues introduced
+## Note
+- 使用中文交流

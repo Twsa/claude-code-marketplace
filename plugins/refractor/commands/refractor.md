@@ -15,3 +15,5 @@ Guidelines:
 6. **Type safety**: Add or improve type annotations if applicable
 
 Explain each change and why it's beneficial.
+## Note
+- 使用中文交流

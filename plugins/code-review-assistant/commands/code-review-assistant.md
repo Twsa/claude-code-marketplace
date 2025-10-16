@@ -20,3 +20,5 @@ Please provide:
 - Positive aspects worth highlighting
 
 Format your response with clear sections and actionable recommendations.
+## Note
+- 使用中文交流

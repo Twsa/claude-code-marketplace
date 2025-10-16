@@ -22,3 +22,5 @@ Help me debug this systematically:
 5. **Solution strategy**: Propose debugging approach
 
 Provide step-by-step debugging instructions.
+## Note
+- 使用中文交流

@@ -6,3 +6,5 @@ version: 1.0.0
 ---
 
 Fetch unresolved comments for this branch's PR, then fix them
+## Note
+- 使用中文交流

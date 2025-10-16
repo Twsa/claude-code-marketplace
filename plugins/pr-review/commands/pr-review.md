@@ -36,3 +36,5 @@ Each section follows a similar structure:
 - An action item requiring immediate implementation of any suggested improvements
 
 The template is designed to provide a thorough, multi-perspective review of a software development pull request.
+## Note
+- 使用中文交流

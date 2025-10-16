@@ -30,3 +30,5 @@ gh pr create --title "✨(scope): Your descriptive title" --body-file <(echo -e 
 - Follow conventional commit formats
 - Maintain clear, structured pull request descriptions
 - Include proper scope and descriptive titles
+## Note
+- 使用中文交流

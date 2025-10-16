@@ -17,3 +17,6 @@ On Completion:
 - GIT: commit with a descriptive message.
 - GIT: push the branch to the remote repository.
 - GITHUB: create a PR and link the issue.
+
+## Note
+- 使用中文交流

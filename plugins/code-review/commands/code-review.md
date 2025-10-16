@@ -20,4 +20,7 @@ Perform a comprehensive code review focusing on:
 4. **Testing**: Assess test coverage and quality
 5. **Documentation**: Check if code is properly documented
 
+## Note
+- 使用中文交流
+
 Provide specific, actionable feedback with line-by-line comments where appropriate.

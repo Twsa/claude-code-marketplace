@@ -13,3 +13,5 @@ This task uses the same logic as the commit task (.claude/commands/commit.md) bu
 - Immediately run `git commit -m` with the first message
 - All other behaviors remain the same as the commit task (format, package names, staged files only)
 - Do NOT add Claude co-authorship footer to commits
+## Note
+- 使用中文交流

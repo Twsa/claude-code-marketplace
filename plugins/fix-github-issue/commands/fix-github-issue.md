@@ -18,3 +18,5 @@ Follow these steps:
 7. Create a descriptive commit message
 
 Remember to use the GitHub CLI (`gh`) for all GitHub-related tasks.
+## Note
+- 使用中文交流

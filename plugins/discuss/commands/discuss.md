@@ -13,3 +13,5 @@ Ask questions in batches of 3 to keep our discussion focused and efficient.
 Each batch should be tailored to the specific topic and help uncover the technical details needed to move forward effectively.
 
 Start by asking me questions related to $ARGUMENTS to better understand what I'm looking to achieve and how we should approach this together.
+## Note
+- 使用中文交流

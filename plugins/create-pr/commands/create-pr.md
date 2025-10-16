@@ -25,3 +25,5 @@ This command automates the process of creating a pull request with several key f
 - Separate unrelated changes into distinct commits
 
 The command aims to streamline the code contribution process by providing intelligent commit and pull request creation.
+## Note
+- 使用中文交流

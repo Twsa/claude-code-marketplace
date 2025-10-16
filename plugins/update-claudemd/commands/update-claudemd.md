@@ -142,3 +142,5 @@ Provide the complete updated CLAUDE.md content, organized as:
 
 ## Important Notes
 [Key information for developers]
+## Note
+- 使用中文交流

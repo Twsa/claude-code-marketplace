@@ -21,3 +21,5 @@ Focus areas:
 6. **Bundle optimization**: Reduce bundle size (if applicable)
 
 Provide before/after comparisons and performance impact estimates.
+## Note
+- 使用中文交流

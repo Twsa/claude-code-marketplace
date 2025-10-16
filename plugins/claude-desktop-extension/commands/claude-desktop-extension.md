@@ -30,3 +30,5 @@ I want to build this as a Desktop Extension, abbreviated as "DXT". Please follow
 
 Generate complete, production-ready code that can be immediately tested. Focus on defensive programming, clear error messages, and following the exact
 DXT specifications to ensure compatibility with the ecosystem.
+## Note
+- 使用中文交流

@@ -151,3 +151,5 @@ Follow these steps:
 
 
 Remember to use the GitHub CLI (`gh`) for all GitHub-related tasks.
+## Note
+- 使用中文交流

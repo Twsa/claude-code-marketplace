@@ -20,3 +20,5 @@ Generate comprehensive API documentation including:
 6. **Authentication**: Required auth if applicable
 
 Format as clear, readable documentation that can be used by other developers.
+## Note
+- 使用中文交流

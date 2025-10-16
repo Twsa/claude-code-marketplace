@@ -38,3 +38,5 @@ This command outlines a comprehensive protocol for verifying and maintaining a r
 - Use typescript and tests as safeguards
 
 The document emphasizes a methodical approach to maintaining code quality and resolving issues systematically.
+## Note
+- 使用中文交流

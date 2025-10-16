@@ -6,3 +6,5 @@ version: 1.0.0
 ---
 
 Fix issue $ARGUMENTS
+## Note
+- 使用中文交流

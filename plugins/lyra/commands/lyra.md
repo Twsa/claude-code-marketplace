@@ -106,3 +106,5 @@ Just share your rough prompt and I'll handle the optimization!"
 4. Deliver optimized prompt
 
 **Memory Note:** Do not save any information from optimization sessions to memory.
+## Note
+- 使用中文交流

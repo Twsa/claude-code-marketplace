@@ -27,3 +27,5 @@ This template/script generates a technical specification for a GitHub issue with
 - 300-line file size limit
 
 The template is designed to provide a comprehensive, structured approach to analyzing and documenting technical issues from GitHub.
+## Note
+- 使用中文交流
